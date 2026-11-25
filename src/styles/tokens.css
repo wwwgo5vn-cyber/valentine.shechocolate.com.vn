@@ -1,0 +1,58 @@
+:root {
+  --color-canvas: #f6ebe8;
+  --color-canvas-deep: #f3e1dc;
+  --color-paper: #fffdfb;
+  --color-paper-rose: #fff6f7;
+  --color-ink: #3a1522;
+  --color-ink-soft: #7a4454;
+  --color-ink-faint: #a56d7c;
+  --color-brand: #d0122d;
+  --color-brand-deep: #a30e24;
+  --color-on-brand: #fffdfb;
+  --color-box-red: #e30613;
+  --color-box-red-deep: #b10d1c;
+  --color-line: #f0d4db;
+  --color-line-strong: #e3b6c2;
+  --color-swan: #c9b0b6;
+  --color-day-mon: #d8263a;
+  --color-day-tue: #ef8a3a;
+  --color-day-wed: #f0c14e;
+  --color-day-thu: #3f9a58;
+  --color-day-fri: #157a90;
+  --color-day-sat: #243e86;
+  --color-day-sun: #6d3d9e;
+  --color-on-day: #fffdfb;
+  --color-day-ink: #3a1522;
+  --color-success: #246b40;
+  --color-success-soft: #e8f5ee;
+  --color-danger: #a30e24;
+  --color-danger-soft: #fff1f3;
+  --color-header: rgba(255, 253, 251, 0.92);
+  --color-shadow: rgba(120, 24, 48, 0.12);
+  --color-shadow-strong: rgba(90, 16, 36, 0.2);
+  --color-selection: #f8c2d0;
+  --color-focus: #d0122d;
+  --color-footer-line: rgba(255, 253, 251, 0.2);
+
+  --font-script: "Dancing Script", cursive;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Be Vietnam Pro", "Segoe UI", sans-serif;
+
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 80px;
+
+  --radius-card: 28px;
+  --radius-control: 999px;
+  --radius-field: 16px;
+
+  --shadow-soft: 0 10px 28px var(--color-shadow);
+  --shadow-float: 0 28px 60px var(--color-shadow-strong);
+  --header-h: 68px;
+  --dock-h: 76px;
+  --page: 1120px;
+}
